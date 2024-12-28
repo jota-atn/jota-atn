@@ -8,12 +8,12 @@
   <!-- Coluna da esquerda -->
   <div style="flex: 1; display: flex; flex-direction: column; gap: 5px; margin: 0; padding: 0; max-width: 30%;">
     <img 
-      style="width: 50%; height: auto; max-height: 195px; display: block; border-radius: 5px;" 
+      style="width: 40%; height: auto; max-height: 195px; display: block; border-radius: 5px;" 
       src="https://github-readme-stats.vercel.app/api?username=jota-atn&show_icons=true&count_private=true&hide_border=true&title_color=d4d3d7&icon_color=343357&text_color=c9d1d9&bg_color=0d1117" 
       alt="Jota github stats"
     />
     <img 
-      style="width: 50%; height: auto; max-height: 195px; display: block; border-radius: 5px;" 
+      style="width: 40%; height: auto; max-height: 195px; display: block; border-radius: 5px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota-atn&layout=compact&hide_border=true&title_color=d4d3d7&text_color=efe1e4&bg_color=0d1117" 
       alt="Top Languages"
     />
@@ -22,7 +22,7 @@
   <!-- Coluna da direita -->
   <div style="flex: 1.5; margin: 0; padding: 0; max-width: 40%;">
     <img 
-      style="width: 50%; height: auto; max-height: 300px; display: block; border-radius: 5px;" 
+      style="width: 40%; height: auto; max-height: 300px; display: block; border-radius: 5px;" 
       src="https://github.com/jota-atn/jota-atn/blob/main/images/pc-user.gif?raw=true" 
       alt="PC user GIF"
     />
