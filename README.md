@@ -3,12 +3,30 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=747397&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Antonio!;I'm+a+Computer+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ---
-  
 
-<p float="left">
-  <img style="width: 25%; height: auto; max-height: 195px; display: block; border-radius: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota-atn&layout=compact&hide_border=true&title_color=d4d3d7&text_color=efe1e4&bg_color=0d1117" alt="Top Languages"/> 
-  <img style="width: 25%; height: auto; max-height: 300px; display: block; border-radius: 5px;" src="https://github.com/jota-atn/jota-atn/blob/main/images/pc-user.gif?raw=true" alt="PC user GIF"/>
-</p>
+<div align="center">
+
+  <table style="width: 100%; max-width: 800px; margin: 20px auto; text-align: center; border-spacing: 10px; table-layout: fixed;">
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">
+        <img  
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota-atn&layout=compact&hide_border=true&title_color=d4d3d7&text_color=efe1e4&bg_color=0d1117"
+          height="250"
+          style="transition: transform 0.3s ease-in-out;" 
+          alt="Top Languages" />
+      <td>
+      <td style="text-align: center; vertical-align: center;">
+      <img
+        src="https://github.com/jota-atn/jota-atn/blob/main/images/pc-user.gif?raw=true"
+        height="100%"
+        width="100%"
+        style="transition: transform 0.3s ease-in-out;"  
+        alt="PC user GIF" />
+      <td>
+    <tr>
+  <table>
+</div>
+
 
  
 ---
