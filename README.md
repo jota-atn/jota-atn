@@ -19,7 +19,7 @@
       <td>
       <td style="text-align: center; vertical-align: center;">
       <img
-        src="https://github.com/jota-atn/jota-atn/blob/main/images/loop-terminal.gif"
+        src="https://github.com/jota-atn/jota-atn/blob/main/images/neon.gif.gif?raw=true"
         height="100%"
         width="100%"
         style="transition: transform 0.3s ease-in-out;"  
