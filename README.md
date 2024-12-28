@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343357&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=747397&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Antonio!;I'm+a+Computer+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A4A3D7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Antonio!;I'm+a+Computer+Science+Student.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ---
+<br><br>
 
 <div align="center">
 
@@ -31,21 +32,38 @@
     <tr>
   <table>
 </div>
-
-
  
 ---
 
-## HABILIDADES E TECNOLOGIAS
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A4A3D7&size=35&center=true&vCenter=true&width=1000&lines=HABILIDADES+E+FERRAMENTAS)](https://git.io/typing-svg)
+
+---
 
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
 [![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/pt-br/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+
 ---
 
-## CONTATO
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jota-atn/jota-atn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jota-atn/jota-atn/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jota-atn/jota-atn/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+---
+
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A4A3D7&size=35&center=true&vCenter=true&width=1000&lines=ENTRE+EM+CONTATO!)](https://git.io/typing-svg)
+
+---
+
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black
 )](https://mail.google.com/mail/?view=cm&fs=1&to=jamqueiroz2005@gmail.com)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jota.atnn/)
@@ -59,12 +77,7 @@
 
 ---
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jota-atn/jota-atn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jota-atn/jota-atn/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jota-atn/jota-atn/output/github-contribution-grid-snake.svg">
-</picture>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A4A3D7&size=35&center=true&vCenter=true&width=1000&lines=Até+mais!)](https://git.io/typing-svg)
 
----
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343357&height=120&section=footer"/>
