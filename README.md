@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=747397&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Antonio!;I'm+a+Computer+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div style="display: flex; gap: 5px; align-items: flex-start; margin: 0; padding: 0; max-width: 50%;">
+<div style="display: flex; gap: 5px; align-items: flex-start; margin: 0; padding: 0; max-width: 10%;">
   <!-- Coluna da esquerda -->
   <div style="flex: 1; display: flex; flex-direction: column; gap: 5px; margin: 0; padding: 0; max-width: 25%;">
     <img 
