@@ -72,24 +72,3 @@
   <table>
 </div>
 
----
-
-<div align="center">
-  <table style="width: 100%; max-width: 800px; margin: 20px auto; text-align: center; border-spacing: 10px; table-layout: fixed;">
-    <tr>
-      <td style="text-align: center; vertical-align: middle;">
-        <picture align="center">
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jota-atn/jota-atn/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jota-atn/jota-atn/output/github-contribution-grid-snake-dark.svg">
-          <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jota-atn/jota-atn/output/github-contribution-grid-snake.svg">
-        </picture>
-      <td style="text-align: center; vertical-align: center;">
-        <div align="center">
-          <br><p align="centre"><b>Visitors Count</b></p>  
-          <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jota-atn}/count.svg" /></p> 
-          <br>
-        </div>
-      <td>
-    <tr>
-  <table>
-</div>
