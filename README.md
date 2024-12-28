@@ -1,6 +1,7 @@
 # Olá, meu nome é João Antonio!👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jota-atn&layout=compact)
+![https://github.com/jota-atn/jota-atn/blob/main/images/pc-user.gif](https://github.com/jota-atn/jota-atn/blob/main/images/pc-user.gif)
 
 ## 📖HISTÓRICO ACADÊMICO
 
