@@ -12,20 +12,20 @@
         <img  
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota-atn&layout=compact&hide_border=true&title_color=d4d3d7&text_color=efe1e4&bg_color=0d1117"
           height="125"
-          style="transition: transform 0.5s ease-in-out;" 
+          style="transition: transform 0.3s ease-in-out;" 
           alt="Top Languages" />
         <img 
         src="https://github-readme-stats.vercel.app/api?username=jota-atn&show_icons=true&count_private=true&hide_border=true&title_color=d4d3d7&icon_color=343357&text_color=efe1e4&bg_color=0d1117" 
         height="125"
-        style="transition: transform 0.5s ease-in-out;"
+        style="transition: transform 0.3s ease-in-out;"
         alt="Jota github stats" /> 
       <td>
       <td style="text-align: center; vertical-align: center;">
       <img
-        src="https://github.com/jota-atn/jota-atn/blob/main/images/pc-user.gif?raw=true"
+        src=["https://github.com/jota-atn/jota-atn/blob/main/images/pc-user.gif?raw=true"](https://github.com/jota-atn/jota-atn/blob/main/images/pc-user.gif?raw=true)
         height="100%"
         width="100%"
-        style="transition: transform 0.5s ease-in-out;"  
+        style="transition: transform 0.3s ease-in-out;"  
         alt="PC user GIF" />
       <td>
     <tr>
