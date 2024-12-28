@@ -5,29 +5,38 @@
 <div align="center">
   <table style="width: 100%; max-width: 800px; margin: 20px auto; text-align: center; border-spacing: 10px; table-layout: fixed; max-height: 500px;">
     <tr>
-      <td style="text-align: center; vertical-align: middle;">
+      <!-- Parte esquerda -->
+      <td style="width: 75%; text-align: center; vertical-align: middle;">
         <img  
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota-atn&layout=compact&hide_border=true&title_color=d4d3d7&text_color=efe1e4&bg_color=0d1117"
           height="220"
           style="transition: transform 0.3s ease-in-out;" 
           alt="Top Languages" />
         <img 
-        src="https://github-readme-stats.vercel.app/api?username=jota-atn&show_icons=true&count_private=true&hide_border=true&title_color=d4d3d7&icon_color=343357&text_color=efe1e4&bg_color=0d1117" 
-        height="220"
-        style="transition: transform 0.3s ease-in-out;"
-        alt="Jota github stats" /> 
-      <td>
-      <td style="text-align: center; vertical-align: center;">
-      <img
-        src="https://github.com/jota-atn/jota-atn/blob/main/images/neon.gif.gif?raw=true"
-        height="100%"
-        width="100%"
-        style="transition: transform 0.3s ease-in-out;"  
-        alt="PC user GIF" />
-      <td>
-    <tr>
-  <table>
+          src="https://github-readme-stats.vercel.app/api?username=jota-atn&show_icons=true&count_private=true&hide_border=true&title_color=d4d3d7&icon_color=343357&text_color=efe1e4&bg_color=0d1117" 
+          height="220"
+          style="transition: transform 0.3s ease-in-out;"
+          alt="Jota github stats" /> 
+      </td>
+      <!-- Parte direita -->
+      <td style="width: 25%; text-align: center; vertical-align: middle;">
+        <img
+          src="https://github.com/jota-atn/jota-atn/blob/main/images/neon.gif.gif?raw=true"
+          height="50%"
+          width="50%"
+          style="transition: transform 0.3s ease-in-out;"  
+          alt="PC user GIF" />
+        <img
+          src="https://github.com/jota-atn/jota-atn/blob/main/images/rubik-gif.gif?raw=true"
+          height="50%"
+          width="50%"
+          style="transition: transform 0.3s ease-in-out;"  
+          alt="Rubik Cube GIF" />
+      </td>
+    </tr>
+  </table>
 </div>
+
  
 ---
 
