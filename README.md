@@ -6,7 +6,7 @@
 
 <div style="display: flex; gap: 5px; align-items: flex-start; margin: 0; padding: 0; max-width: 100%;">
   <!-- Coluna da esquerda -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 5px; margin: 0; padding: 0; max-width: 50%;">
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 5px; margin: 0; padding: 0; max-width: 30%;">
     <img 
       style="width: 50%; height: auto; max-height: 195px; display: block; border-radius: 5px;" 
       src="https://github-readme-stats.vercel.app/api?username=jota-atn&show_icons=true&count_private=true&hide_border=true&title_color=d4d3d7&icon_color=343357&text_color=c9d1d9&bg_color=0d1117" 
@@ -20,7 +20,7 @@
   </div>
 
   <!-- Coluna da direita -->
-  <div style="flex: 1.5; margin: 0; padding: 0; max-width: 50%;">
+  <div style="flex: 1.5; margin: 0; padding: 0; max-width: 40%;">
     <img 
       style="width: 50%; height: auto; max-height: 300px; display: block; border-radius: 5px;" 
       src="https://github.com/jota-atn/jota-atn/blob/main/images/pc-user.gif?raw=true" 
