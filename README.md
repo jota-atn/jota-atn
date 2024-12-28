@@ -2,9 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=747397&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Antonio!;I'm+a+Computer+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div style="display: flex; gap: 5px; align-items: flex-start; margin: 0; padding: 0; max-width: 10%;">
+---
+
+<div style="display: flex; gap: 5px; align-items: flex-start; margin: 0; padding: 0; max-width: 100%;">
   <!-- Coluna da esquerda -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 5px; margin: 0; padding: 0; max-width: 25%;">
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 5px; margin: 0; padding: 0; max-width: 40%;">
     <img 
       style="width: 100%; height: auto; max-height: 150px; display: block; border-radius: 5px;" 
       src="https://github-readme-stats.vercel.app/api?username=jota-atn&show_icons=true&count_private=true&hide_border=true&title_color=d4d3d7&icon_color=343357&text_color=c9d1d9&bg_color=0d1117" 
@@ -18,9 +20,9 @@
   </div>
 
   <!-- Coluna da direita -->
-  <div style="flex: 1.5; margin: 0; padding: 0; max-width: 40%;">
+  <div style="flex: 1.5; margin: 0; padding: 0; max-width: 60%;">
     <img 
-      style="width: 100%; height: auto; max-height: 250px; display: block; border-radius: 5px;" 
+      style="width: 100%; height: auto; max-height: 270px; display: block; border-radius: 5px;" 
       src="https://github.com/jota-atn/jota-atn/blob/main/images/pc-user.gif?raw=true" 
       alt="PC user GIF"
     />
@@ -51,6 +53,8 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jota-atn}/count.svg" /></p> 
 <br>
 </div>
+
+---
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jota-atn/jota-atn/output/github-contribution-grid-snake-dark.svg">
