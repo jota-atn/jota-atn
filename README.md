@@ -39,11 +39,11 @@
   <table style="width: 100%; max-width: 800px; margin: 20px auto; text-align: center; border-spacing: 10px; table-layout: fixed;">
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <br><br>
+        <br>
           <div style="text-align: center;" align="center">
             <p style="color: A4A3D7; font-size: 20px; ">HABILIDADES E FERRAMENTAS</p>  
           </div>
-        <br><br>
+        <br>
         <div align="center">
           <img
           src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -57,11 +57,11 @@
           src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
         </div>
       <td style="text-align: center; vertical-align: center;">
-        <br><br>
+        <br>
           <div style="text-align: center;" align="center">
             <p style="color: A4A3D7; font-size: 20px; ">ENTRE EM CONTATO</p>  
           </div>
-        <br><br>
+        <br>
         <div align="center">
           <img
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/>
