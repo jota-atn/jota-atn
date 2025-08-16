@@ -2,7 +2,7 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 20px; margin: 20px auto; max-width: 1000px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin: 20px auto; max-width: 1000px;">
 
   <div style="flex: 2; min-width: 300px; text-align: center; display: flex; flex-direction: column; gap: 15px;">
     <img  
@@ -18,8 +18,10 @@
   <div style="flex: 1; min-width: 250px; display: flex; justify-content: center; align-items: center;">
     <img
       src="https://github.com/jota-atn/jota-atn/blob/main/images/rubik-gif.gif?raw=true"
-      style="max-height: 100%; max-width: 100%; object-fit: contain;"  
+      height="500"
+      style="object-fit: contain;"  
       alt="Rubik Cube GIF" />
   </div>
 
 </div>
+
