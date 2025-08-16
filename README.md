@@ -2,82 +2,53 @@
 
 ---
 
-<div align="center">
-  <table style="width: 100%; max-width: 900px; margin: 20px auto; text-align: center; border-spacing: 10px; table-layout: fixed; max-height: 500px;">
-    <tr>
-      <!-- Parte esquerda (maior) -->
-      <td style="width: 70%; text-align: center; vertical-align: middle;">
-        <img  
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota-atn&layout=compact&hide_border=true&title_color=d4d3d7&text_color=efe1e4&bg_color=0d1117"
-          height="300"
-          style="transition: transform 0.3s ease-in-out;" 
-          alt="Top Languages" />
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=jota-atn&show_icons=true&count_private=true&hide_border=true&title_color=d4d3d7&icon_color=343357&text_color=efe1e4&bg_color=0d1117" 
-          height="300"
-          style="transition: transform 0.3s ease-in-out;"
-          alt="Jota github stats" /> 
-      </td>
-      <!-- Parte direita (menor) -->
-      <td style="width: 30%; text-align: center; vertical-align: middle;">
-        <img
-          src="https://github.com/jota-atn/jota-atn/blob/main/images/neon.gif.gif?raw=true"
-          height="60%"
-          width="60%"
-          style="transition: transform 0.3s ease-in-out;"  
-          alt="PC user GIF" />
-        <img
-          src="https://github.com/jota-atn/jota-atn/blob/main/images/rubik-gif.gif?raw=true"
-          height="60%"
-          width="60%"
-          style="transition: transform 0.3s ease-in-out;"  
-          alt="Rubik Cube GIF" />
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px auto; max-width: 1000px;">
+
+  <div style="flex: 2; min-width: 300px; text-align: center;">
+    <img  
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota-atn&layout=compact&hide_border=true&title_color=d4d3d7&text_color=efe1e4&bg_color=0d1117"
+      style="max-width: 100%; height: auto; margin-bottom: 15px;" 
+      alt="Top Languages" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=jota-atn&show_icons=true&count_private=true&hide_border=true&title_color=d4d3d7&icon_color=343357&text_color=efe1e4&bg_color=0d1117" 
+      style="max-width: 100%; height: auto;" 
+      alt="Jota github stats" /> 
+  </div>
+
+  <div style="flex: 1; min-width: 200px; text-align: center;">
+    <img
+      src="https://github.com/jota-atn/jota-atn/blob/main/images/neon.gif.gif?raw=true"
+      style="width: 70%; max-width: 200px; margin-bottom: 15px;"  
+      alt="PC user GIF" />
+    <img
+      src="https://github.com/jota-atn/jota-atn/blob/main/images/rubik-gif.gif?raw=true"
+      style="width: 70%; max-width: 200px;"  
+      alt="Rubik Cube GIF" />
+  </div>
 </div>
 
- 
 ---
 
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; margin: 20px auto; max-width: 900px; text-align: center;">
 
-  <table style="width: 100%; max-width: 800px; margin: 20px auto; text-align: center; border-spacing: 10px; table-layout: fixed;">
-    <tr>
-      <td style="text-align: center; vertical-align: middle;">
-        <br>
-          <div style="text-align: center;" align="center">
-            <p style="color: A4A3D7; font-size: 20px; ">HABILIDADES E FERRAMENTAS</p>  
-          </div>
-        <br>
-        <div align="center">
-          <img
-          src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img
-          src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-        <img
-          src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img
-          src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-        <img
-          src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-        </div>
-      <td style="text-align: center; vertical-align: center;">
-        <br>
-          <div style="text-align: center;" align="center">
-            <p style="color: A4A3D7; font-size: 20px; ">ENTRE EM CONTATO</p>  
-          </div>
-        <br>
-        <div align="center">
-          <img
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/>
-          <img
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-          <img
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </div>
-      <td>
-    <tr>
-  <table>
+  <div style="flex: 1; min-width: 250px;">
+    <p style="color: #A4A3D7; font-size: 20px; font-weight: bold;">HABILIDADES E FERRAMENTAS</p>  
+    <div>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    </div>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <p style="color: #A4A3D7; font-size: 20px; font-weight: bold;">ENTRE EM CONTATO</p>  
+    <div>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </div>
+  </div>
+
 </div>
-
