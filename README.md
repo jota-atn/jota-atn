@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A4A3D7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Antonio!;I'm+a+Computer+Science+Student.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6CA6CD&height=150&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6CA6CD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Antonio!;I'm+a+Computer+Science+Student.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ---
 
@@ -43,3 +45,5 @@
   <a href="https://www.linkedin.com/in/joão-antonio-b10289277"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jamqueiroz2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6CA6CD&height=150&section=footer"/>
