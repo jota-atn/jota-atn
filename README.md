@@ -23,7 +23,7 @@ Computer Science student
 
 ### 📊 Most used languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jota-atn&layout=compact&hide_border=true&theme=github_dark&langs_count=8&card_width=350)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jota-atn&theme=github_dark)
 
 <br>
 
