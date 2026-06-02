@@ -1,7 +1,3 @@
-<div align="center">
-
-<br>
-
 ## Hi, I'm João Antonio 👋
 
 Computer Science student
@@ -35,7 +31,3 @@ Computer Science student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-antonio-b10289277)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jamqueiroz2005@gmail.com)
-
-<br>
-
-</div>
