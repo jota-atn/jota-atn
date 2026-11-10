@@ -29,8 +29,8 @@ CONFIG = [
     ("Languages.Computer", "HTML, CSS, Bash, SQL, Lua"),
     ("Languages.Real", "Portuguese, English"),
     None,
-    ("Hobbies.Software", "Ricing Hyprland, Neovim configs"),
-    ("Hobbies.Other", "Games, Music"),
+    ("Hobbies.Software", "Automation, AI tooling, Linux ricing"),
+    ("Hobbies.Other", "Puzzles, Games, Music"),
     None,
     "Contact",
     ("Email", "jamqueiroz2005@gmail.com"),
@@ -46,6 +46,9 @@ FONT = 16           # px
 LINE = 20           # px line height
 CHAR = 9.65         # approx monospace advance at 16px
 PAD = 15
+ART_FONT = 11      # px, smaller so the portrait can have more columns
+ART_LINE = 13.3    # keeps the ~1:2 char aspect of the ascii
+ART_CHAR = ART_FONT * 0.603
 
 THEMES = {
     "dark": dict(bg="#161b22", border="#30363d", text="#c9d1d9", key="#ffa657",
@@ -221,13 +224,14 @@ def render(theme, stats):
     art = (ROOT / "ascii.txt").read_text().rstrip("\n").split("\n")
     info = build_lines(stats)
     art_w = max(map(len, art))
-    info_x = PAD + (art_w + 3) * CHAR
-    rows = max(len(art), len(info))
+    info_x = PAD + art_w * ART_CHAR + 3 * CHAR
+    art_h, info_h = len(art) * ART_LINE, len(info) * LINE
+    inner = max(art_h, info_h)
     width = int(info_x + WIDTH * CHAR + PAD)
-    height = PAD * 2 + rows * LINE
+    height = int(PAD * 2 + inner)
 
-    art_top = PAD + LINE + (rows - len(art)) * LINE // 2
-    info_top = PAD + LINE + (rows - len(info)) * LINE // 2
+    art_top = PAD + ART_LINE + (inner - art_h) / 2
+    info_top = PAD + LINE + (inner - info_h) // 2
 
     out = [f'<?xml version="1.0" encoding="UTF-8"?>',
            f'<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,\'JetBrains Mono\',monospace" '
@@ -237,9 +241,9 @@ def render(theme, stats):
            f".add{{fill:{t['add']}}} .del{{fill:{t['dele']}}} text,tspan{{white-space:pre}}",
            "</style>",
            f'<rect width="{width}px" height="{height}px" fill="{t["bg"]}" rx="15"/>',
-           f'<text x="{PAD}" y="{art_top}" fill="{t["text"]}" class="ascii">']
+           f'<text x="{PAD}" y="{art_top:.1f}" fill="{t["text"]}" font-size="{ART_FONT}px">']
     for i, line in enumerate(art):
-        out.append(f'<tspan x="{PAD}" y="{art_top + i * LINE}">{escape(line)}</tspan>')
+        out.append(f'<tspan x="{PAD}" y="{art_top + i * ART_LINE:.1f}">{escape(line)}</tspan>')
     out.append("</text>")
     out.append(f'<text x="{info_x:.0f}" y="{info_top}" fill="{t["text"]}">')
     for i, parts in enumerate(info):

@@ -1,63 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'JetBrains Mono',monospace" width="1101px" height="630px" font-size="16px" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'JetBrains Mono',monospace" width="1114px" height="628px" font-size="16px" xml:space="preserve">
 <style>
 .key{fill:#953800} .value{fill:#0a3069} .dots{fill:#c2cfde} .add{fill:#1a7f37} .del{fill:#cf222e} text,tspan{white-space:pre}
 </style>
-<rect width="1101px" height="630px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="35" fill="#24292f" class="ascii">
-<tspan x="15" y="35">             jmqqwwxli|lxxwmmkhw</tspan>
-<tspan x="15" y="55">            ikxlxlljjjij!jijxwwm&amp;x</tspan>
-<tspan x="15" y="75">         wmmwwllljxl|ijwxijljlxlm&amp;q</tspan>
-<tspan x="15" y="95">        mq|!!;!;:,;|!:;|ixiiijllwxhl</tspan>
-<tspan x="15" y="115">       i*li;,:!!;:,;i|!iijilijjxjlqh;</tspan>
-<tspan x="15" y="135">        xjji|||!;,`,,:!|j;:i|;;!|jxwq</tspan>
-<tspan x="15" y="155">       |jjj!;;:```;!,``::;;:::||!|lwj</tspan>
-<tspan x="15" y="175">       ;l!li!,,,,,`,`,:,``,:!!;;;!;j</tspan>
-<tspan x="15" y="195">        !i%hl!:;i!;`,!;,,```,;!ilq|!</tspan>
-<tspan x="15" y="215">        ,w@@%kqwxwwi::,`,!i||lwh%x:</tspan>
-<tspan x="15" y="235">         q#@@@#8&amp;&amp;*kxjjxmhhhk*&amp;##lw</tspan>
-<tspan x="15" y="255">         lm@@@@@@@#8***&amp;%###@@@@8mx</tspan>
-<tspan x="15" y="275">         x*qljxwwq*&amp;&amp;88&amp;*hhmqm*8%m</tspan>
-<tspan x="15" y="295">         m@m|!;,;;iqhhkx!;::;!|k@q  ;</tspan>
-<tspan x="15" y="315">         j@@&amp;qxjwxwwhhqwxllixq8@#i</tspan>
-<tspan x="15" y="335">         ,#@@#&amp;&amp;&amp;888@@8*&amp;hmkh&amp;%#k</tspan>
-<tspan x="15" y="355">         |@@@@@#88@@@@@#*8##%***l;</tspan>
-<tspan x="15" y="375">      ::;i*%%88&amp;8%#8#@@@8##%&amp;**wjlli||i|||!;</tspan>
-<tspan x="15" y="395">,!||i|i|!:!!lxixwxijlljk#@@8&amp;ki!;;;;;;!!|||i</tspan>
-<tspan x="15" y="415">!::,,,,,&#x27;,,`,,.:xxli;:;|xwkhl:,,:::,,:;;;:;!</tspan>
-<tspan x="15" y="435">`````,:&#x27;&#x27;,```&#x27;&#x27;:lqmmmqql;,::```,,,,:::::::;;</tspan>
-<tspan x="15" y="455">``&#x27;``,`.``````&#x27;,;::;!ji!`&#x27;&#x27;&#x27;``````,,,,`,,,:,</tspan>
-<tspan x="15" y="475">&#x27;&#x27;&#x27;```.&#x27;``````&#x27;`:;;;;;:,&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;````,,``&#x27;`,,,,</tspan>
-<tspan x="15" y="495">&#x27;&#x27;`&#x27;`&#x27;&#x27;````&#x27;```&#x27;&#x27;``&#x27;&#x27;``&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`````````&#x27;`,`,`</tspan>
-<tspan x="15" y="515">&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`&#x27;``&#x27;&#x27;``&#x27;&#x27;&#x27;&#x27;&#x27;..&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`````&#x27;&#x27;```&#x27;,,``&#x27;</tspan>
-<tspan x="15" y="535">.&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`&#x27;&#x27;&#x27;&#x27;`&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;```&#x27;&#x27;&#x27;```&#x27;&#x27;`,`&#x27;.</tspan>
-<tspan x="15" y="555">.&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`&#x27;&#x27;&#x27;&#x27;``&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;```&#x27;&#x27;&#x27;````&#x27;&#x27;``&#x27;&#x27;.</tspan>
-<tspan x="15" y="575">...&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;``&#x27;&#x27;&#x27;&#x27;`&#x27;&#x27;`&#x27;&#x27;``&#x27;&#x27;..</tspan>
-<tspan x="15" y="595">...&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`````&#x27;..&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;...</tspan>
-<tspan x="15" y="615"> .&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`````&#x27;..&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;...</tspan>
+<rect width="1114px" height="628px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="28.3" fill="#24292f" font-size="11px">
+<tspan x="15" y="28.3">                    imkqmwwwwxlwjlwqqjxqq*hk*hm!</tspan>
+<tspan x="15" y="41.6">                   |hqxxqqxxlji!,,:!jlwxilxxqm&amp;8k!</tspan>
+<tspan x="15" y="54.9">                 ,jkqxjjljijlijwlxqx;||illlxwxjx&amp;%m,</tspan>
+<tspan x="15" y="68.2">             :wkh*mxmwlwqlxwqlilxjxxlj||jjllxqlxm*8&amp;</tspan>
+<tspan x="15" y="81.5">            ,hmqjjiili!|!;!|i|;:,:jlxmjllj!!jlxjqxwhj</tspan>
+<tspan x="15" y="94.8">           ,hhi|;;|;:;:::``:;!!;;;!|;jl!!iljllllwwwm&amp;w</tspan>
+<tspan x="15" y="108.1">           m*mj|j!,,,||;;:;::|jji;!jijljxl!!xjlw|lwkk*!</tspan>
+<tspan x="15" y="121.4">           |mlll|:;;||!!!:;&#x27;,::;;!|iij!!ijl|i|ill|ijxwq,</tspan>
+<tspan x="15" y="134.7">           ,q|j|jxi|||i;;:``,`&#x27;,:;!|j|,`||!!::;;!ilqxx*;</tspan>
+<tspan x="15" y="148.0">           w|;xj|;!;!:,`,,`:|;;,,`:;;;|;,:,,;!ii!!jlxxk</tspan>
+<tspan x="15" y="161.3">           jw|jij;;,,,``&#x27;&#x27;`,;!,`,``,&#x27;`:!;;!;;i|!;;:|jwi</tspan>
+<tspan x="15" y="174.6">           il|;llji!::,,::,````&#x27;::;,``&#x27;&#x27;&#x27;,|!!;,!!;i;:x</tspan>
+<tspan x="15" y="187.9">           ;i`i%*wj|;:,!ji;;``,;;;::,````,:::;!i|wqi;|</tspan>
+<tspan x="15" y="201.2">            ||q@@#hwj||iijiji::;|!,&#x27;`,,:,,,:|ilqq*x:j</tspan>
+<tspan x="15" y="214.5">             iw@@@@8*kmqwqkqwj:::,,,:!iljlljwwm&amp;#8|!</tspan>
+<tspan x="15" y="227.8">             wx@@@@@@#&amp;&amp;&amp;&amp;**kqlj|!ilxkhhkkqm**&amp;#@mjx!</tspan>
+<tspan x="15" y="241.1">             lmh@@@@@@@##%%%8*hkkhhh*&amp;8&amp;88%%###@@ww8|</tspan>
+<tspan x="15" y="254.4">              k|@@@@@@@@@@#%%&amp;&amp;****&amp;8##@###@@@@@#qmm</tspan>
+<tspan x="15" y="267.7">              hq&amp;kxllwmkkh*8&amp;&amp;&amp;&amp;&amp;8&amp;88%%88&amp;**&amp;%@@%*w;</tspan>
+<tspan x="15" y="281.0">             ,h@qi||!!!;::!jm*&amp;888&amp;kxi|||!!!!ilm@&amp;x  iq</tspan>
+<tspan x="15" y="294.3">             !h@@kj!|;,,;|!|jqkkkkqi|;;::;;||ix%@8l   ;</tspan>
+<tspan x="15" y="307.6">              m@@@&amp;wwqiiqxiwxxmmmqwwl|xq!|wwwh%@@*j</tspan>
+<tspan x="15" y="320.9">              |#@@@#kqqqqmhhkk%#%&amp;khhmxxwwwq*#@@#x</tspan>
+<tspan x="15" y="334.2">              ;#@@@@@#8%%%%%%%@@@#*&amp;&amp;&amp;&amp;hkh*&amp;888@k|</tspan>
+<tspan x="15" y="347.5">              x@@@@@@@@@#8&amp;#@@@@@@#8h&amp;8%##%&amp;&amp;h*&amp;l!</tspan>
+<tspan x="15" y="360.8">              w@@@@@##8&amp;hh#@@8%@@@@@**%##%8&amp;*h&amp;wwjwlj!;:,;,</tspan>
+<tspan x="15" y="374.1">      ,::!|!ijiw888&amp;&amp;&amp;&amp;8##%%@h%@@@@#%8@##8&amp;**&amp;qxi|iii|iijjjlllljii</tspan>
+<tspan x="15" y="387.4">  !iijjijji|i,;!||xqwxwqmkx|lmmkkqq*@@@@%8&amp;**l||:!!!;;!;;;!!!||||i</tspan>
+<tspan x="15" y="400.7">||!|!,;::::;`&#x27;:::`,j;`,||ilj;`&#x27;``&#x27;!qhh8%%&amp;hqi!:,:::;;:,:;;;;!!;;!!</tspan>
+<tspan x="15" y="414.0">:,`:`,:`,::,.`,``,```&#x27;.!qqljqxi||i|!jljxmmj:,,,,,:::`,::::;;;:;;!!</tspan>
+<tspan x="15" y="427.3">,,`,&#x27;,,`,:,&#x27;&#x27;`,``,,`&#x27;&#x27;&#x27;!xm*hhmmqwxxj!:::i;``,,,,,,,`,::::::;:::;;:</tspan>
+<tspan x="15" y="440.6">````&#x27;```,,&#x27;.&#x27;,```````&#x27;`:;:!|jjxwwqwj!&#x27;```&#x27;`,```````,,:,,:,`::,,:;,</tspan>
+<tspan x="15" y="453.9">`&#x27;&#x27;&#x27;&#x27;`,```.&#x27;`````````&#x27;`:!!,,,,,;||;``&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`````,,,,,,`&#x27;,,,,:,,</tspan>
+<tspan x="15" y="467.2">&#x27;`&#x27;&#x27;```&#x27;`..&#x27;`````````&#x27;`,:;;!;!!;;;:,`&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;```````,,,,```&#x27;,,,,,,`</tspan>
+<tspan x="15" y="480.5">&#x27;`&#x27;&#x27;`&#x27;&#x27;`&#x27;.&#x27;`````&#x27;`````&#x27;&#x27;`,,:,,::::,`&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;````````,,,```&#x27;&#x27;,,,``,`</tspan>
+<tspan x="15" y="493.8">&#x27;&#x27;&#x27;`&#x27;&#x27;``.&#x27;``````&#x27;&#x27;&#x27;````&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;.&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;``````````````&#x27;&#x27;,,````&#x27;</tspan>
+<tspan x="15" y="507.1">&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;``&#x27;`&#x27;``&#x27;&#x27;&#x27;````&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;....&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`&#x27;`````&#x27;&#x27;`````&#x27;`:`````&#x27;</tspan>
+<tspan x="15" y="520.4">&#x27;.&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;``&#x27;&#x27;&#x27;&#x27;&#x27;``&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;``````&#x27;&#x27;&#x27;&#x27;````&#x27;&#x27;`,,```&#x27;&#x27;</tspan>
+<tspan x="15" y="533.7">..&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;``&#x27;&#x27;&#x27;&#x27;&#x27;``&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`````&#x27;&#x27;&#x27;&#x27;``````&#x27;&#x27;&#x27;`,``&#x27;..</tspan>
+<tspan x="15" y="547.0">..&#x27;&#x27;&#x27;&#x27;&#x27;.&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;```&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`````&#x27;&#x27;&#x27;&#x27;```&#x27;``&#x27;&#x27;&#x27;&#x27;````&#x27;.&#x27;</tspan>
+<tspan x="15" y="560.3">....&#x27;&#x27;.&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;``&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;````&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;``&#x27;&#x27;&#x27;&#x27;``&#x27;&#x27;..&#x27;</tspan>
+<tspan x="15" y="573.6">....&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`&#x27;&#x27;&#x27;```&#x27;..&#x27;&#x27;``&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;```&#x27;&#x27;&#x27;...</tspan>
+<tspan x="15" y="586.9">....&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;```````&#x27;&#x27;..&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`&#x27;&#x27;&#x27;....</tspan>
+<tspan x="15" y="600.2">  ..&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;```````&#x27;&#x27;..&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;....</tspan>
+<tspan x="15" y="613.5">  .&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;```````&#x27;...&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;....</tspan>
 </text>
-<text x="469" y="115" fill="#24292f">
-<tspan x="469" y="115">jota@atn ————————————————————————————————————————————————————-—-</tspan>
-<tspan x="469" y="135">. <tspan class="key">OS</tspan>:<tspan class="dots"> ...................................... </tspan><tspan class="value">Arch Linux, Android</tspan></tspan>
-<tspan x="469" y="155">. <tspan class="key">Host</tspan>:<tspan class="dots"> .............................. </tspan><tspan class="value">UFCG - Campina Grande, PB</tspan></tspan>
-<tspan x="469" y="175">. <tspan class="key">Kernel</tspan>:<tspan class="dots"> ............................. </tspan><tspan class="value">Computer Science Student</tspan></tspan>
-<tspan x="469" y="195">. <tspan class="key">IDE</tspan>:<tspan class="dots"> ......................................... </tspan><tspan class="value">Neovim, VS Code</tspan></tspan>
-<tspan x="469" y="215"></tspan>
-<tspan x="469" y="235">. <tspan class="key">Languages.Programming</tspan>:<tspan class="dots"> ...... </tspan><tspan class="value">Python, Java, C, C++, TypeScript</tspan></tspan>
-<tspan x="469" y="255">. <tspan class="key">Languages.Computer</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">HTML, CSS, Bash, SQL, Lua</tspan></tspan>
-<tspan x="469" y="275">. <tspan class="key">Languages.Real</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">Portuguese, English</tspan></tspan>
-<tspan x="469" y="295"></tspan>
-<tspan x="469" y="315">. <tspan class="key">Hobbies.Software</tspan>:<tspan class="dots"> ............ </tspan><tspan class="value">Ricing Hyprland, Neovim configs</tspan></tspan>
-<tspan x="469" y="335">. <tspan class="key">Hobbies.Other</tspan>:<tspan class="dots"> .................................. </tspan><tspan class="value">Games, Music</tspan></tspan>
-<tspan x="469" y="355"></tspan>
-<tspan x="469" y="375">- Contact ———————————————————————————————————————————————————-—-</tspan>
-<tspan x="469" y="395">. <tspan class="key">Email</tspan>:<tspan class="dots"> .............................. </tspan><tspan class="value">jamqueiroz2005@gmail.com</tspan></tspan>
-<tspan x="469" y="415">. <tspan class="key">LinkedIn</tspan>:<tspan class="dots"> ............................. </tspan><tspan class="value">joão-antonio-b10289277</tspan></tspan>
-<tspan x="469" y="435">. <tspan class="key">GitHub</tspan>:<tspan class="dots"> ............................................. </tspan><tspan class="value">jota-atn</tspan></tspan>
-<tspan x="469" y="455"></tspan>
-<tspan x="469" y="475">- GitHub Stats ——————————————————————————————————————————————-—-</tspan>
-<tspan x="469" y="495">. <tspan class="key">Repos</tspan>:<tspan class="dots"> ....... </tspan><tspan class="value">16 {Contributed: 3}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">4</tspan></tspan>
-<tspan x="469" y="515">. <tspan class="key">Commits</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">1,077</tspan> | <tspan class="key">Followers</tspan>:<tspan class="dots"> ........... </tspan><tspan class="value">45</tspan></tspan>
-<tspan x="469" y="535">. <tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="dots"> ..... </tspan><tspan class="value">79,657</tspan> ( <tspan class="add">228,314++</tspan>, <tspan class="del">148,657--</tspan> )</tspan>
+<text x="482" y="114.0" fill="#24292f">
+<tspan x="482" y="114.0">jota@atn ————————————————————————————————————————————————————-—-</tspan>
+<tspan x="482" y="134.0">. <tspan class="key">OS</tspan>:<tspan class="dots"> ...................................... </tspan><tspan class="value">Arch Linux, Android</tspan></tspan>
+<tspan x="482" y="154.0">. <tspan class="key">Host</tspan>:<tspan class="dots"> .............................. </tspan><tspan class="value">UFCG - Campina Grande, PB</tspan></tspan>
+<tspan x="482" y="174.0">. <tspan class="key">Kernel</tspan>:<tspan class="dots"> ............................. </tspan><tspan class="value">Computer Science Student</tspan></tspan>
+<tspan x="482" y="194.0">. <tspan class="key">IDE</tspan>:<tspan class="dots"> ......................................... </tspan><tspan class="value">Neovim, VS Code</tspan></tspan>
+<tspan x="482" y="214.0"></tspan>
+<tspan x="482" y="234.0">. <tspan class="key">Languages.Programming</tspan>:<tspan class="dots"> ...... </tspan><tspan class="value">Python, Java, C, C++, TypeScript</tspan></tspan>
+<tspan x="482" y="254.0">. <tspan class="key">Languages.Computer</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">HTML, CSS, Bash, SQL, Lua</tspan></tspan>
+<tspan x="482" y="274.0">. <tspan class="key">Languages.Real</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">Portuguese, English</tspan></tspan>
+<tspan x="482" y="294.0"></tspan>
+<tspan x="482" y="314.0">. <tspan class="key">Hobbies.Software</tspan>:<tspan class="dots"> ....... </tspan><tspan class="value">Automation, AI tooling, Linux ricing</tspan></tspan>
+<tspan x="482" y="334.0">. <tspan class="key">Hobbies.Other</tspan>:<tspan class="dots"> ......................... </tspan><tspan class="value">Puzzles, Games, Music</tspan></tspan>
+<tspan x="482" y="354.0"></tspan>
+<tspan x="482" y="374.0">- Contact ———————————————————————————————————————————————————-—-</tspan>
+<tspan x="482" y="394.0">. <tspan class="key">Email</tspan>:<tspan class="dots"> .............................. </tspan><tspan class="value">jamqueiroz2005@gmail.com</tspan></tspan>
+<tspan x="482" y="414.0">. <tspan class="key">LinkedIn</tspan>:<tspan class="dots"> ............................. </tspan><tspan class="value">joão-antonio-b10289277</tspan></tspan>
+<tspan x="482" y="434.0">. <tspan class="key">GitHub</tspan>:<tspan class="dots"> ............................................. </tspan><tspan class="value">jota-atn</tspan></tspan>
+<tspan x="482" y="454.0"></tspan>
+<tspan x="482" y="474.0">- GitHub Stats ——————————————————————————————————————————————-—-</tspan>
+<tspan x="482" y="494.0">. <tspan class="key">Repos</tspan>:<tspan class="dots"> ....... </tspan><tspan class="value">16 {Contributed: 3}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">4</tspan></tspan>
+<tspan x="482" y="514.0">. <tspan class="key">Commits</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">1,077</tspan> | <tspan class="key">Followers</tspan>:<tspan class="dots"> ........... </tspan><tspan class="value">45</tspan></tspan>
+<tspan x="482" y="534.0">. <tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="dots"> ..... </tspan><tspan class="value">79,657</tspan> ( <tspan class="add">228,314++</tspan>, <tspan class="del">148,657--</tspan> )</tspan>
 </text>
 </svg>
